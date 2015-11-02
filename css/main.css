@@ -1,0 +1,32 @@
+body{
+	margin: 0;
+}
+
+h1{
+	font-family: 'Slabo 27px', serif;
+	font-size: 2.5em;
+}
+
+h2{
+	font-style: italic;
+	font-size: 1em;
+}
+
+p{
+	line-height: 1.7;
+}
+
+.container{
+	max-width: 96%;
+	width: 100%
+	position: relative;
+	margin: 0 auto;
+}
+
+.header-title{
+	font-size: 3em
+	text-align: center;
+}
+
+
+
